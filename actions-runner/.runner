@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "KOMPUTER",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus12.actions.githubusercontent.com/R5PVgAlU5PmogEE4cqVUVImkU5IqkJqZaFbzCY39HboqxgExLJ/",
+  "gitHubUrl": "https://github.com/AlexseyPolatov/DevOps",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
